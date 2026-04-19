@@ -7,6 +7,9 @@
 }
 
 body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
     height: 100vh;
     background-color: var(--black);
     background-image: url(./resources/Background_image.svg);
@@ -41,6 +44,7 @@ body {
 
 header {
     margin-block-end: 3rem;
+    max-width: 30rem;
 }
 
 h1 {
