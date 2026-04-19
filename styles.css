@@ -13,9 +13,27 @@ body {
 /* || Colours */
 
 :root {
+    --black: #121826;
+    --grey: #9da3ae;
+    --white: #e5e7eb;
+    --dark-teal: #212936;
+    --pale-blue: #dee9fc;
+    --pale-pink: #fbe5e6;
+    --pale-yellow: #fceed8;
+    --pale-grey: #d2d5da;
 }
 
 /* || Fonts */
+
+@font-face {
+    font-family: "Outfit Regular";
+    src: url(./fonts/outfit-v15-latin-regular.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Outfit Semi Bold";
+    src: url(./fonts/outfit-v15-latin-600.woff2) format("woff2");
+}
 
 /* || Typography */
 
