@@ -1,0 +1,40 @@
+/* || Global Styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+/* || Colours */
+
+:root {
+}
+
+/* || Fonts */
+
+/* || Typography */
+
+.author-info {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 16px;
+    color: rgb(55, 65, 81);
+}
+
+.author-info a {
+    text-decoration: none;
+}
+
+/* || Main */
+
+/* || Media Queries */
+
+/* Tablet View */
+
+@media screen and (min-width: 51.25rem) {
+}
